@@ -54,9 +54,7 @@ The goal is to evaluate which algorithm performs best on this clinical dataset u
 
 ## c. GitHub Repository Link
 
-🔗 **[github.com/YOUR_USERNAME/ml-classification-app](https://github.com/YOUR_USERNAME/ml-classification-app)**
-
-*(Replace with your actual GitHub link after pushing)*
+🔗 **[github.com/akashdeepjaiswal/ml-classification-app](https://github.com/akashdeepjaiswal/ml-classification-app)**
 
 **Repository structure:**
 ```
@@ -115,7 +113,7 @@ All models trained on the same 80% training split; evaluated on the same 20% tes
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/ml-classification-app.git
+git clone https://github.com/akashdeepjaiswal/ml-classification-app.git
 cd ml-classification-app
 
 # 2. Install dependencies
