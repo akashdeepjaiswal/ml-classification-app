@@ -266,7 +266,7 @@ def plot_roc_curve(y_true, y_prob, model_name: str) -> plt.Figure:
     plt.tight_layout()
     return fig
 
-def plot_feature_importance(model, model_name: str) -> plt.Figure | None:
+def plot_feature_importance(model, model_name: str):
     if hasattr(model, "feature_importances_"):
         imp = model.feature_importances_
     elif hasattr(model, "coef_"):
