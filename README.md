@@ -130,9 +130,7 @@ streamlit run app.py
 
 ## 🌐 Live Streamlit App
 
-🔗 **[your-app-name.streamlit.app](https://your-app-name.streamlit.app)**
-
-*(Replace with your actual Streamlit Cloud link after deployment)*
+🔗 **[ml-classification-app-akash.streamlit.app](https://ml-classification-app-akash.streamlit.app/)**
 
 **App Features:**
 - 📂 CSV upload for custom test data
